@@ -60,7 +60,7 @@ It makes callsigns easier to read by **color-coding different forces**, hiding i
 This is the **RECOMMENDED** method!   
 Learn Here: https://www.youtube.com/watch?v=c4m8PMzWa_8   
 
-Copy the whole code within `missile-panel.js` to paste it into TamperMonkey. 
+Copy the whole code within `chat-filter.js` to paste it into TamperMonkey. 
 
 ---
 
