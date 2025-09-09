@@ -45,8 +45,8 @@
     toggleBtn.innerText = "ChatMod: ON";
     Object.assign(toggleBtn.style, {
         position: "fixed",
-        top: "10px",
-        right: "25%",
+        top: "7%",
+        right: "15%",
         zIndex: 9999,
         padding: "5px 10px",
         background: "#222",
