@@ -33,9 +33,9 @@
 
     const keywords = [
         "[U]", "[UTP]", "[P]", "[PMC]", "[NKG-KG]", "[SHL]", "[NFS]", "[AEF]", "[WANK]", "[NIUF]", "[RNLAF]", "[RNZAF]", "[USAF]", "[RAAF]",
-        "[TUAF]", "[TASC]", "[UAC]", "[UAEAF]", "[USSR]", "[BAF]", "[PAF]",
+        "[TUAF]", "[TASC]", "[UAC]", "[UAEAF]", "[USSR]", "[BAF]", "[PAF]", "[JASDF]",
         "[RAF]", "(U)", "(UTP)", "(P)", "(NKG-KG)", "(PMC)", "(RNLAF)", "(AEF)",
-        "(RNZAF)", "(SHL)", "(NFS)", "(RAAF)", "(USAF)", "(TUAF)",
+        "(RNZAF)", "(SHL)", "(NFS)", "(RAAF)", "(USAF)", "(TUAF)", "(JASDF)",
         "(TASC)", "(UAC)", "(UAEAF)", "(USSR)", "(BAF)", "(WANK)", "(NIUF)",
         "(PAF)", "(RAF)"
     ];
