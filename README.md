@@ -83,5 +83,5 @@ This project is licensed under the **MIT License** — you are free to use, modi
 **MASSIV4515**  
 _For the GeoFS Military Roleplay community_  
 
-Discord: **massiv4515**  
+Discord: **massiv4515_**  
 Email: **massiv4515@gmail.com**
